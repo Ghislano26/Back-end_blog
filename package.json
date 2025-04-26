@@ -34,7 +34,7 @@
     "typescript-eslint": "^7.13.1"
   },
   "dependencies": {
-    "@prisma/client": "^5.19.1",
+    "@prisma/client": "^6.6.0",
     "@types/morgan": "^1.9.9",
     "@types/uuid": "^10.0.0",
     "compression": "^1.7.4",
@@ -43,6 +43,7 @@
     "express": "^4.19.2",
     "express-rate-limit": "^7.3.1",
     "morgan": "^1.10.0",
+    "prisma": "^6.6.0",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1",
     "uuid": "^10.0.0"
